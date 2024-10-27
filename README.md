@@ -9,17 +9,13 @@
 
 <h1>My name is RAVEN P. RILLERA</h1>
 <h2>2nd Year College - BSIT <br>
-Senior High School Graduate
-</h2>
+Senior High School Graduate <br>
 
-
-<h2>CERTIFICATIONS
+CERTIFICATIONS
 <ul>
   <a href="youtube.com">Link</a>
   <li>First</li>
   <li>Second</li>
   <li>Third</li>
 </ul>
-
-</h2>
 
