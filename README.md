@@ -8,8 +8,8 @@
 
 
 <h1>My name is RAVEN P. RILLERA</h1>
-<h2>2nd Year College - BSIT <br>
-Senior High School Graduate <br>
+<h2>2nd Year College - BSIT | New Era University<br>
+Senior High School Graduate | New Era University<br><br>
 
 CERTIFICATIONS
 <ul>
