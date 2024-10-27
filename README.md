@@ -8,6 +8,14 @@
 
 <!
 <h1>My name is RAVEN P. RILLERA</h1>
-<h2>Subheading</h2>
+<h2>Senior High School Graduate | New Era University</h2>
+<h2>CERTIFICATIONS
+<ul>
+  <li>First</li>
+  <li>Second</li>
+  <li>Third</li>
+</ul>
+
+</h2>
 
 >
