@@ -7,9 +7,11 @@
 - ⚡ Fun fact: ...
 
 
-<pre>My name is RAVEN P. RILLERA</pre>
-<h2>2nd Year College - BSIT</h2>
-<h2>Senior High School Graduate</h2>
+<h1>My name is RAVEN P. RILLERA</h1>
+<h2>2nd Year College - BSIT <br>
+Senior High School Graduate
+</h2>
+
 
 <h2>CERTIFICATIONS
 <ul>
