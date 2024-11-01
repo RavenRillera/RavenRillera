@@ -1,10 +1,11 @@
 
 <h1>My name is RAVEN P. RILLERA</h1>
 
-EDUCATION<br>
-<h2>2nd Year College Student - BSIT | New Era University<br>
-Senior High School Graduate | New Era University<br><br>
-
+EDUCATION
+<ul>
+  2nd Year College Student - BSIT | New Era University
+  Senior High School Graduate | New Era University
+</ul>
   
 CERTIFICATIONS
 <ul>
