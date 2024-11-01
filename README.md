@@ -4,7 +4,7 @@
 <h1>EDUCATION
 <h2>2nd Year College Student - BSIT | New Era University<br>
 Senior High School Graduate | New Era University<br><br>
-</h1>
+
   
 CERTIFICATIONS
 <ul>
