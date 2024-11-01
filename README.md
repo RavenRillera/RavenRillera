@@ -13,7 +13,7 @@ Senior High School Graduate | New Era University<br><br>
 
 CERTIFICATIONS
 <ul>
-  <a href="(https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff)">SQL and Relational Database 101</a>
+  <a href="https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff">SQL and Relational Database 101</a>
   <li>First</li>
   <li>Second</li>
   <li>Third</li>
