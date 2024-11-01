@@ -12,3 +12,9 @@ CERTIFICATIONS
   <a href="https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff">SQL and Relational Database 101</a>
 </ul>
 
+SKILLSETS
+<ul>
+  <li>Basic HTML</li>
+  <li>Basic Java</li>
+  <li>Basic SQL</li>
+</ul>
