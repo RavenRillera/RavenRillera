@@ -3,8 +3,8 @@
 
 EDUCATION
 <ul>
-  2nd Year College Student - BSIT | New Era University
-  Senior High School Graduate | New Era University
+  <li>2nd Year College Student - BSIT | New Era University</li>
+  <li>Senior High School Graduate | New Era University</li>
 </ul>
   
 CERTIFICATIONS
