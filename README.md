@@ -10,7 +10,8 @@ EDUCATION
   
 CERTIFICATIONS
 <ul>
-  <a href="https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff">SQL and Relational Database 101</a>
+  <li><a href="https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff">SQL and Relational Database 101</a></li>
+  <li><a href="[https://courses.cognitiveclass.ai/certificates/5ff7fa1329994ff48060afb82608c6ff](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5416526&trackId=OCI2024FNDCFA&key=c4be5b3f9d87ea531c75f72d5e9321824170e5f9)">Oracle Cloud Infrastructure 2024 Foundations Associate</a></li>
 </ul>
 <hr>
 
