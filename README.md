@@ -22,5 +22,4 @@ SKILLSETS
   <li>Basic HTML</li>
   <li>Basic Java</li>
   <li>Basic SQL</li>
-  <li>Basic AUTOCAD</li>
 </ul>
