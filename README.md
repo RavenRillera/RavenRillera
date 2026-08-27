@@ -3,8 +3,7 @@
 
 EDUCATION
 <ul>
-  <li>3rd Year College Student - BSIT | New Era University</li>
-  <li>Senior High School Graduate | New Era University</li>
+  <li>4th Year College Student - BSIT | New Era University</li>
 </ul>
 <hr>
   
