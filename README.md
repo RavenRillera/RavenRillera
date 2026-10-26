@@ -18,7 +18,12 @@ CERTIFICATIONS
 
 SKILLSETS
 <ul>
-  <li>Basic HTML</li>
-  <li>Basic Java</li>
-  <li>Basic SQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>SQL</li>
+  <li>MONGODB</li>
+  <li>REACT</li>
+  <li>NODE.JS</li>
+  <li>REST API</li>
 </ul>
